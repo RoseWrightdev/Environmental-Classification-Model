@@ -31,7 +31,13 @@
 ## Dataset
 https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment
 
+### Correlation Matrix
+![image](https://github.com/user-attachments/assets/c2005c81-5673-4537-9091-cc1304a579c9)
+
+
+
 # Model
+
 ```
 # Hyperparameters
 batch_size = 256
@@ -71,8 +77,3 @@ model.summary()
 ![image](https://github.com/user-attachments/assets/c92139c5-c281-4f48-9b19-e50eb0bc0899)
 
 ![image](https://github.com/user-attachments/assets/bbca14b4-a1da-4b0e-804c-9868439c0911)
-
-## Correlation Matrix
-![image](https://github.com/user-attachments/assets/c2005c81-5673-4537-9091-cc1304a579c9)
-
-
