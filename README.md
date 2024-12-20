@@ -1,6 +1,7 @@
-# View Jupyter Notebook ▼
+# View Jupyter Notebook
 https://nbviewer.org/github/RoseWrightdev/AirQuality-Classification-Model/blob/main/main.ipynb
-
+###
+###
 ## Air Quality and Pollution Assessment Classification Model
 
 ### Key features of the dataset
